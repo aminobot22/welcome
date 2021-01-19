@@ -1,8 +1,8 @@
 import amino
 import time
 
-email = "gbad94611@gmail.com"  # Set your own password here!
-password = "7060187782"  # Set your own password here!
+email = ""  # Set your own password here!
+password = ""  # Set your own password here!
 cid = "226547416"  # Community ID
 
 client = amino.Client()
